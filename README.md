@@ -17,7 +17,7 @@
 ### from matplotlib.pyplot import imread
 ### import tensorflow as tf
 ### from tensorflow.keras import layers, models
-### from tensorflow.keras.models import Sequentialimport tensorflow_hub as hub
+### from tensorflow.keras.models import Sequential
 ### import osimport tensorflow as tf
 ### import tensorflow_hub as hub
 ### from tensorflow import keras
