@@ -5,23 +5,29 @@
 
 ### The code should run as is. It includes the following packages
 
-#### !pip install graphviz
-#### !pip install gdown
+### !pip install tensorflow==2.14
 
-#### import gdown
-#### import pandas as pd
-#### import numpy as np
-#### from sklearn.model_selection import train_test_split, GridSearchCV
-#### from sklearn.tree import DecisionTreeClassifier, export_graphviz
-#### from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
-#### from xgboost import XGBClassifier
-#### from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc, precision_recall_curve
-#### import matplotlib.pyplot as plt
-#### import seaborn as sns
-#### import graphviz
-#### from sklearn import tree
-#### from sklearn.preprocessing import StandardScaler
-#### from sklearn.preprocessing import LabelEncoder
+ 
+### !pip install graphviz
+### !pip install scikit-learn imbalanced-learn
+### import pandas as pd
+### import numpy as np
+### from IPython.display import Image
+### from sklearn.model_selection import train_test_split
+### from matplotlib.pyplot import imread
+### import tensorflow as tf
+### from tensorflow.keras import layers, models
+### from tensorflow.keras.models import Sequentialimport tensorflow_hub as hub
+### import osimport tensorflow as tf
+### import tensorflow_hub as hub
+### from tensorflow import keras
+### from tensorflow.keras import layers
+### from tensorflow.keras.models import Sequential
+### import cv2import urllib
+### import numpy as np
+### import matplotlib.pyplot as plt
+### import pandas as pd
+### from google.colab import drive
 
 ### If any of the packages listed above are not already installed, please install using
 
